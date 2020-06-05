@@ -1,0 +1,59 @@
+
+body {background-color: rgb(0, 6, 6);
+    margin:0cm;
+    font-family: Helvetica Neue, Arial, Helvetica, sans-serif;}
+    h4{color: white;
+    padding-left: 1000px;
+    margin-top: 250px;
+    
+
+}
+
+
+ 
+    h1{padding: 50px;
+       background-color: white;
+        font-family: Helvetica Neue, Arial, Helvetica, sans-serif;
+        color:rgb(0, 0, 0);}      
+  a {margin-left: 40px;
+    text-decoration: none;
+    color: white;
+    }     
+a:hover{color: blanchedalmond;}
+
+         
+     
+    .input figure img{
+    width:200px;
+    height: 20px;
+    border-radius: 3%;}
+
+    .input{color:grey;
+
+        padding:20px;
+        display:flex;
+        flex-direction: row;}
+         .input figure{
+             margin:auto;
+             width:200px;
+             
+         }
+        .input figure img{
+        width:200px;
+        height: 150px;}
+        
+   
+
+h3{color: white;
+margin: 20px;}
+  h2{display: flex;
+flex-direction: row;}
+
+li{margin-left:-18px;}
+
+div section{background-color: rgb(49, 48, 48);}
+footer ol li{margin-left: 0px;}
+footer h3{margin-left:50px}
+
+
+
